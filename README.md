@@ -20,3 +20,14 @@ execution does not overwrite either file. Pandas reads `.csv.gz` directly.
 Original file supplied on 6 September 2026: `Rossmann_train.csv`.
 SHA-256 of the **decompressed original CSV**:
 `f6e4597c142d7d909a13d53b68a8e85c00b9a4c7b5ff40adbb37d6829cc1f4cc`.
+# Rossmann Sales Analysis & Forecasting
+
+## Project Overview
+## Business Questions
+## Dataset
+## Data Analysis
+## Models
+## Model Evaluation
+## Key Findings
+## Technologies Used
+## Repository Structure
